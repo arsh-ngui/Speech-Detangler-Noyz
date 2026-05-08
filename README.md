@@ -1,4 +1,4 @@
-# Speech Detangler
+# Speech Detangler - Noyz
 
 ### Real-time multi-speaker speech separation and transcription pipeline for noisy and overlapping conversations.
 
@@ -73,12 +73,6 @@ Final Combined Output
 
 ---
 
-## Research Conducted
-
-The project involved studying multiple state-of-the-art speech separation and transcription systems including DPRNN, Conv-TasNet, SepFormer, Asteroid, and OpenAI Whisper. Research focused on overlapping speech handling, sequence modeling, noise robustness, indoor interference effects, and improving transcription accuracy through separation-before-transcription pipelines.
-
----
-
 ## Technologies Used
 
 ### Languages
@@ -106,18 +100,6 @@ The project involved studying multiple state-of-the-art speech separation and tr
 - Sequence Modeling
 - Spectral Analysis
 - Automatic Speech Recognition (ASR)
-
----
-
-## Current Progress
-
-- Audio preprocessing pipeline implemented
-- Whisper transcription integrated
-- Asteroid framework experimentation completed
-- DPRNN-based speech separation in progress
-- Multi-speaker transcription testing completed
-- Noise filtering and real-time optimization ongoing
-- Speaker diarization and GUI integration planned
 
 ---
 
