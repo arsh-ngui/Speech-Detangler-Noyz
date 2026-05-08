@@ -6,7 +6,7 @@
 
 ## Overview
 
-Speech Detangler is an AI-powered multi-speaker speech separation and transcription system designed for noisy and overlapping conversations. The project combines speech enhancement, speaker separation, and Whisper-based transcription into a unified pipeline to improve transcription accuracy in real-world environments such as meetings, call recordings, classrooms, and crowded spaces.
+Noyz is an AI-powered multi-speaker speech separation and transcription system designed for noisy and overlapping conversations. The project combines speech enhancement, speaker separation, and Whisper-based transcription into a unified pipeline to improve transcription accuracy in real-world environments such as meetings, call recordings, classrooms, and crowded spaces.
 
 ---
 
@@ -23,7 +23,7 @@ Speech Detangler is an AI-powered multi-speaker speech separation and transcript
 
 ## What makes it better
 
-Unlike standard transcription systems that fail under overlapping speech conditions, Speech Detangler combines:
+Unlike standard transcription systems that fail under overlapping speech conditions, Noyz combines:
 
 - Deep-learning-based source separation
 - Speaker-aware processing
@@ -36,7 +36,7 @@ into a single integrated workflow.
 
 **"Separate first, understand later."**
 
-Instead of directly transcribing mixed audio, Speech Detangler first isolates speakers and enhances speech quality, significantly improving transcription accuracy in noisy real-world environments.
+Instead of directly transcribing mixed audio, it first isolates speakers and enhances speech quality, significantly improving transcription accuracy in noisy real-world environments.
 
 ---
 
@@ -106,8 +106,8 @@ Final Combined Output
 ## Installation
 
 ```bash
-git clone https://github.com/arsh-ngui/speech-detangler.git
-cd speech-detangler
+git clone https://github.com/arsh-ngui/speech-detangler-noyz.git
+cd speech-detangler-noyz
 ```
 
 ### Install Dependencies
